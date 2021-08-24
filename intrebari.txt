@@ -1,0 +1,85 @@
+21
+Câte continente există pe Pământ?
+1
+0 0 1 0
+5 6 7 8
+Din ce țară izvorăște Dunărea?
+1
+1 0 0 0
+Germania Austria Franta Rusia
+Care este cel mai lung fluviu din Europa?
+2
+1 0 0 0
+Volga Dunarea Nil Amazon
+În ce an s-a născut Regele Mihai I?
+2
+0 1 0 0
+1920 1921 1924 1925
+Unde s-a născut Ion Creangă?
+1
+0 0 0 1
+Bucuresti Calimanesti Iazesti Humulesti
+În ce an a devenit fotbalul sport olimpic?
+2
+0 0 1 0
+1921 1914 1900 1805
+Câte zile are un an bisect?
+1
+0 0 0 1
+367 365 364 366
+În ce organ se află coardele vocale la om?
+3
+0 1 0 0
+Faringe Laringe Limba Esofag
+Câti ani a durat Războiul de 100 de ani?
+3
+0 0 1 0
+100 121 116 108
+Care este capitala Islandei?
+2
+1 0 0 0 
+Reykjavik Atena Azika Radasa
+Ce tip de lac este Lacul lezer?
+3
+0 1 0 0 
+glaciar antropic alpin meteoric
+În ce oraș au fost executați soții Ceaușescu?
+3 
+1 0 0 0
+Targoviste Bucuresti Vaslui Iasi
+În ce țară s-a născut Adolf Hitler?
+3
+0 1 0 0
+Polonia Austria Germania Franta
+Care este cea mai populata tara de pe glob?
+3
+1 0 0 0
+China SUA India Rusia
+Ce ţară din America de Sud are cea mai mare suprafaţă?
+3
+0 0 0 1
+Mexic Columbia SUA Brazilia 
+Care este durata de viață a unei libelule?
+3
+0 1 0 0
+15ore 24ore 20ore 30ore
+Care este numele celei mai mari companii tehnologice din Coreea de Sud?
+3
+1 0 0 0 
+Samsung Apple Huawei Motorola
+În ce an s-a scufundat Titanicul în Oceanul Atlantic, la 15 aprilie, în călătoria sa de fată din Southampton?
+3 
+0 0 1 0
+1910 1911 1912 1913
+În ce an a fost lansat pentru prima dată The Godfather? 
+3
+0 1 0 0 
+1971 1972 1973 1974
+Câte state are Statele Unite ale Americii?
+2 
+1 0 0 0
+50 48 52 49
+Câți ani are un deceniu?
+1
+0 1 0 0
+20 10 1 100
